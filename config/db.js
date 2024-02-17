@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-const url = "mongodb+srv://sibi:arunsibi@hospital-systems.wgqwd8m.mongodb.net/ors-db?retryWrites=true&w=majority";
+
 
 mongoose.set("strictQuery",false)
 
